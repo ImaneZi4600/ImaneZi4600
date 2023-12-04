@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web mapping 
 - 🌱 I’m currently learning Web Developpement 
 - 💞️ I’m looking to collaborate on Web mapping Projects 
-- 📫 You can find me i.zineelabidine.0@gmail.com
   
 
 
